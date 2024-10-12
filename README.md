@@ -1,8 +1,10 @@
+<br/>
 <h1 align="center">Hi 👋, &nbsp; I'm Deniz Gülbahar</h1>
 <h4 align="center">An ambitious software developer focused on modularity and performance.</h4>
 <p align="center"> 
 💬 Ask me about React Native, React, Swift
 </p>
+ <br/>
 <div align="center"> 
   <a href="mailto:deniz.gulbahar@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
@@ -11,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-
+ <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -52,6 +54,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60"/>
   </a>
 </div>
+<br/>
 <h2 align="center">⚡ GitHub Stats ⚡</h2>
 <br/>
 <div align="center">
@@ -59,12 +62,3 @@
     &nbsp; <img width="400" height="200" src="https://github-readme-stats-salesp07.vercel.app/api?username=denizgulbahar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
    <img width="600" height="200" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=denizgulbahar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
-
-<br/><br/>
-
-<hr/>
-
-
-<hr/>
-
-<br/>
