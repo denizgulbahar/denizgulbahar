@@ -32,6 +32,9 @@
   <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="60" height="60"/>
   </a>
+  <a href="https://www.swift.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift.org" width="60" height="60"/>
+  </a>
   <a href="https://react.i18next.com/" target="_blank" rel="noreferrer">
     <img src="https://react.i18next.com/~gitbook/image?url=https%3A%2F%2F4236364459-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-legacy-files%2Fo%2Fspaces%252F-L9iS6WpW81N7RGRTQ-K%252Favatar.png%3Fgeneration%3D1523345851027218%26alt%3Dmedia&width=60&dpr=2&quality=100&sign=285a3825&sv=1" alt="i18next" width="60" height="60"/>
   </a>
