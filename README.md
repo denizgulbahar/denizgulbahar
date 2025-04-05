@@ -2,7 +2,7 @@
 <h1 align="center">Hello, &nbsp; I'm Deniz Gülbahar</h1>
 <h4 align="center">An ambitious software developer focused on modularity and performance.</h4>
 <p align="center"> 
-💬 Ask me about React Native, React, Swift
+💬 Ask me about JavaScript, React Native, React, Swift
 </p>
  <br/>
 <div align="center"> 
